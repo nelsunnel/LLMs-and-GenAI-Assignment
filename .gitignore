@@ -1,5 +1,4 @@
-# Large datasets - exclude from repo
-Datasets/
+# Model weights (but include dataset)
 *.pth
 *.pt
 
