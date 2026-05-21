@@ -9,6 +9,7 @@ Project notebooks for the 15-class dataset assignment
 | **Q1** — Pretrained models (ResNet18, DenseNet121, VGG19) | `q1.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nelsunnel/LLMs-and-GenAI-Assignment/blob/main/q1.ipynb) |
 | **Q2** — Finetune VGG19 | `q2.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nelsunnel/LLMs-and-GenAI-Assignment/blob/main/q2.ipynb) |
 | **Q3** — CLIP ViT-B/16 zero-shot | `q3.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nelsunnel/LLMs-and-GenAI-Assignment/blob/main/q3.ipynb) |
+| **Q4** — Finetune UNet with ResNet-18 | `q4.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nelsunnel/LLMs-and-GenAI-Assignment/blob/main/q4.ipynb) |
 
 ## Data
 
