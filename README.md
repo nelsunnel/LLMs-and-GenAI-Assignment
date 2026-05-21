@@ -18,8 +18,6 @@ Project notebooks for the 15-class dataset assignment
 
 ## Quick Setup
 
-## Quick Setup
-
 ### Local (Jupyter/VS Code)
 
 1. Create a virtual environment and install requirements:
